@@ -183,3 +183,7 @@ SF2_FOLDER = "C:/tools/sf2"  # Example: "D:/SoundFonts"
 
 ## 📄 **License**
 MIT License
+
+---
+## 📄 **AI-Assisted Documentation**
+Parts of this README were generated with the help of ChatGPT to improve clarity and structure. The content has been reviewed and adjusted as needed.
